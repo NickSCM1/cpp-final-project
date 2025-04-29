@@ -3,6 +3,7 @@ The Student Grade Analyzer is a C++ console application for managing student pro
 
   Features
 
+
 Add new student profiles
 
 Add/remove classes and grades per student
@@ -18,6 +19,7 @@ Data automatically saved to and loaded from students.txt
 
   Program Menu Options
 
+
 Add Student – Create a new student profile
 
 Display All Students – View names and GPAs of all students
@@ -29,6 +31,7 @@ Delete Student – Permanently remove a student profile
 Save and Exit – Save all changes and close the program
 
   Data File
+
 
 All student data is saved in students.txt
 
