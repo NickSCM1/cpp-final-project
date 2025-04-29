@@ -1,7 +1,4 @@
 # cpp-final-project
-
-Student Grade Analyzer
-Description
 The Student Grade Analyzer is a C++ console application for managing student profiles, tracking class grades, and calculating GPAs. It allows adding, editing, and deleting students, and saves all data to a file for persistence.
 
 Features
